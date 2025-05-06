@@ -31,18 +31,18 @@
 
 <!-- Option 1: Markdown Stacked Screenshots -->
 ### 🖼️ Hero Section  
-![Hero Section](assets/hero.png)
+![Hero Section](assets/hero.PNG)
 
 ### 🖼️ About Section  
-![About Section](assets/about.png)
-![About Section](assets/about2.png)
+![About Section](assets/about.PNG)
+![About Section](assets/about2.PNG)
 
 ### 🖼️ Features Section  
-![Features](assets/features.png)
-![Features](assets/features2.png)
+![Features](assets/features.PNG)
+![Features](assets/features2.PNG)
 
 ### 🖼️ Footer  
-![Footer](assets/footer.png)
+![Footer](assets/footer.PNG)
 
 <!-- Option 2: Row Layout using HTML -->
 <!--
